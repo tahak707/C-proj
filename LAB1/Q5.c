@@ -22,13 +22,13 @@ int main() {
     scanf("%d", &n);
     if (n < 0) {
         printf("Invalid input. Please enter a non-negative integer.\n");
-        return;
+        return 0;
     }
 
-else{     printf("Fibonacci Series up to the %dth number: ", n);
-    printFib(n,0);
+else{printf("Fibonacci Series up to the %dth number: ", n);
+     printFib(n,0);
      printf("/n")
 
     return 0;
-}
+}}
 
