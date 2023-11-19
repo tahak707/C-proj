@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1698213931 source:c:\users\tahak\documents\github\c-proj\lab1\q2.c
+	<stdio.h>
+	<stdlib.h>
+
+1698213725 source:c:\users\tahak\documents\github\c-proj\lab1\q1.c
+	<stdio.h>
+	<stdlib.h>
+
+1698213939 source:c:\users\tahak\documents\github\c-proj\lab1\q3.c
+	<stdio.h>
+	<stdlib.h>
+
+1698213992 source:c:\users\tahak\documents\github\c-proj\lab1\q4.c
+	<stdio.h>
+	<stdlib.h>
+
+1698214013 source:c:\users\tahak\documents\github\c-proj\lab1\q5.c
+	<stdio.h>
+	<stdlib.h>
+
