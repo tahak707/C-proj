@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1702406120 source:c:\users\tahak\documents\c practice\lab6\main.c
+	"LAB6head.h"
+	<stdio.h>
+
+1702405468 c:\users\tahak\documents\c practice\lab6\lab6head.h
+	<stdbool.h>
+
